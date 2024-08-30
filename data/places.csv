@@ -1,0 +1,91 @@
+PlaceId,PlaceName,Country,Description,ImageURL
+1,Eiffel Tower,France,Iconic symbol of Paris.,https://images.pexels.com/photos/1530259/pexels-photo-1530259.jpeg
+2,Great Wall,China,Ancient wall stretching across northern China.,https://images.pexels.com/photos/2412603/pexels-photo-2412603.jpeg
+3,Machu Picchu,Peru,Historic Inca citadel in the Andes Mountains.,https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg
+4,Grand Canyon,USA,Famous canyon in Arizona.,https://images.pexels.com/photos/63553/pexels-photo-63553.jpeg
+5,Sydney Opera House,Australia,Iconic performing arts center in Sydney.,https://images.pexels.com/photos/1878293/pexels-photo-1878293.jpeg
+6,Statue of Liberty,USA,Famous statue in New York Harbor.,https://images.pexels.com/photos/64271/queen-of-liberty-statue-of-liberty-new-york-liberty-statue-64271.jpeg
+7,Colosseum,Italy,Ancient amphitheater in Rome.,https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg
+8,Christ the Redeemer,Brazil,Large statue of Jesus Christ in Rio de Janeiro.,https://images.pexels.com/photos/2818895/pexels-photo-2818895.jpeg
+9,Taj Mahal,India,White marble mausoleum in Agra.,https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg
+10,Pyramids of Giza,Egypt,Ancient pyramids in Giza.,https://images.pexels.com/photos/19552850/pexels-photo-19552850.jpeg
+11,Mount Fuji,Japan,Iconic volcanic mountain in Japan.,https://images.pexels.com/photos/3408353/pexels-photo-3408353.jpeg
+12,Stonehenge,UK,Prehistoric stone circle in Wiltshire.,https://images.pexels.com/photos/1448136/pexels-photo-1448136.jpeg
+13,Santorini,Greece,Beautiful island known for its white-washed buildings.,https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg
+14,Niagara Falls,Canada/USA,Famous group of waterfalls on the border of Canada and the USA.,https://images.pexels.com/photos/1374585/pexels-photo-1374585.jpeg
+15,Petra,Jordan,Ancient city carved into pink sandstone cliffs.,https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg
+16,Venice,Italy,City known for its canals and architecture.,https://images.pexels.com/photos/258196/pexels-photo-258196.jpeg
+17,Buckingham Palace,UK,London residence of the British monarch.,https://images.pexels.com/photos/1560102/pexels-photo-1560102.jpeg
+18,Chichen Itza,Mexico,Large pre-Columbian archaeological site.,https://images.pexels.com/photos/3290068/pexels-photo-3290068.jpeg
+19,Angkor Wat,Cambodia,Largest religious monument in the world.,https://images.pexels.com/photos/2416576/pexels-photo-2416576.jpeg
+20,Mount Everest,Nepal/China,Highest mountain in the world.,https://images.pexels.com/photos/753772/pexels-photo-753772.jpeg
+21,Burj Khalifa,UAE,Tallest building in the world.,https://images.pexels.com/photos/162031/dubai-tower-arab-khalifa-162031.jpeg
+22,Hagia Sophia,Turkey,Historic museum and former mosque in Istanbul.,https://images.pexels.com/photos/24387814/pexels-photo-24387814.jpeg
+23,Sagrada Familia,Spain,Large unfinished Roman Catholic church in Barcelona.,https://images.pexels.com/photos/819764/pexels-photo-819764.jpeg
+24,Acropolis,Greece,Ancient citadel in Athens.,https://images.pexels.com/photos/951531/pexels-photo-951531.jpeg
+25,Golden Gate Bridge,USA,Iconic suspension bridge in San Francisco.,https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg
+26,Louvre Museum,France,World's largest art museum in Paris.,https://images.pexels.com/photos/2363/france-landmark-lights-night.jpg
+27,Alhambra,Spain,Palace and fortress complex in Granada.,https://images.pexels.com/photos/2431436/pexels-photo-2431436.jpeg
+28,Mount Kilimanjaro,Tanzania,Highest mountain in Africa.,https://images.pexels.com/photos/8427984/pexels-photo-8427984.jpeg
+29,Versailles Palace,France,Royal residence near Paris.,https://images.pexels.com/photos/24405551/pexels-photo-24405551.jpeg
+30,Banff National Park,Canada,National park in the Canadian Rockies.,https://images.pexels.com/photos/533769/pexels-photo-533769.jpeg
+31,Yellowstone National Park,USA,First national park in the world.,https://images.pexels.com/photos/2416600/pexels-photo-2416600.jpeg
+32,Galapagos Islands,Ecuador,Archipelago known for its unique wildlife.,https://images.pexels.com/photos/19798666/pexels-photo-19798666.jpeg
+33,Sistine Chapel,Vatican City,Famous chapel with Michelangelo's frescoes.,https://images.pexels.com/photos/20638765/pexels-photo-20638765.jpeg
+34,Prague Castle,Czech Republic,Largest ancient castle in the world.,https://images.pexels.com/photos/3977192/pexels-photo-3977192.jpeg
+35,Hagia Sophia,Turkey,Historic museum and former mosque in Istanbul.,https://images.pexels.com/photos/24387814/pexels-photo-24387814.jpeg
+36,Rapa Nui National Park,Chile,World Heritage site on Easter Island.,https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg
+37,Bryce Canyon,USA,Famous for its unique rock formations called hoodoos.,https://images.pexels.com/photos/545960/pexels-photo-545960.jpeg
+38,Reed Flute Cave,China,Natural limestone cave with multicolored lighting.,https://images.pexels.com/photos/23999399/pexels-photo-23999399.jpeg
+39,Mount Etna,Italy,Active volcano on the east coast of Sicily.,https://images.pexels.com/photos/5469523/pexels-photo-5469523.jpeg
+40,Bryggen,Norway,Historic harbour district in Bergen.,https://images.pexels.com/photos/18450266/pexels-photo-18450266.jpeg
+41,Lake Louise,Canada,Glacial lake in Banff National Park.,https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg
+42,Athabasca Glacier,Canada,Large glacier located in the Canadian Rockies.,https://images.pexels.com/photos/7263404/pexels-photo-7263404.jpeg
+43,Rotorua,New Zealand,City on New Zealands North Island known for its geothermal activity.,https://images.pexels.com/photos/163992/pexels-photo-163992.jpeg
+44,Monteverde Cloud Forest,Costa Rica,Famous for its biodiversity and cloud forest.,https://images.pexels.com/photos/27200252/pexels-photo-27200252.jpeg
+45,Napa Valley,USA,Region in California known for its vineyards.,https://images.pexels.com/photos/39511/purple-grapes-vineyard-napa-valley-napa-vineyard-39511.jpeg
+46,Monument Valley,USA,Region of the Colorado Plateau characterized by a cluster of vast sandstone buttes.,https://images.pexels.com/photos/161820/monument-valley-west-western-161820.jpeg
+47,Great Ocean Road,Australia,Scenic drive along the south-eastern coast of Australia.,https://images.pexels.com/photos/1170572/pexels-photo-1170572.jpeg
+48,Queenstown,New Zealand,Resort town known for adventure sports.,https://images.pexels.com/photos/2226900/pexels-photo-2226900.jpeg
+49,Ngorongoro Crater,Tanzania,World's largest inactive volcanic caldera.,https://images.pexels.com/photos/2862070/pexels-photo-2862070.jpeg
+50,Reykjavik,Iceland,Capital of Iceland known for its Viking history.,https://images.pexels.com/photos/2484933/pexels-photo-2484933.jpeg
+51,Masada,Israel,Ancient fortress on a plateau in the Judaean Desert.,https://images.pexels.com/photos/6638788/pexels-photo-6638788.jpeg
+52,Lofoten Islands,Norway,Archipelago known for its dramatic scenery.,https://images.pexels.com/photos/27245711/pexels-photo-27245711.jpeg
+53,Bagan,Myanmar,Ancient city with thousands of Buddhist temples.,https://images.pexels.com/photos/3560161/pexels-photo-3560161.jpeg
+54,Mount Cook,New Zealand,Highest mountain in New Zealand.,https://images.pexels.com/photos/12946195/pexels-photo-12946195.jpeg
+55,Franz Josef Glacier,New Zealand,Glacier located in Westland Tai Poutini National Park.,https://images.pexels.com/photos/11575025/pexels-photo-11575025.jpeg
+56,Alcatraz Island,USA,Historic island and former prison in San Francisco Bay.,https://images.pexels.com/photos/23910628/pexels-photo-23910628.jpeg
+57,Matterhorn,Switzerland,Famous mountain in the Alps.,https://images.pexels.com/photos/267104/pexels-photo-267104.jpeg
+58,Haleakala National Park,USA,National park in Hawaii known for its volcanic landscape.,https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg
+59,Petronas Towers,Malaysia,Twin skyscrapers in Kuala Lumpur.,https://images.pexels.com/photos/1538177/pexels-photo-1538177.jpeg
+60,Arashiyama Bamboo Grove,Japan,Famous bamboo forest in Kyoto.,https://images.pexels.com/photos/17785724/pexels-photo-17785724.jpeg
+61,Plitvice Lakes,Croatia,National park known for its lakes and waterfalls.,https://images.pexels.com/photos/4846307/pexels-photo-4846307.jpeg
+62,Torres del Paine,Chile,"National park known for its mountains, glaciers, and lakes.",https://images.pexels.com/photos/1684166/pexels-photo-1684166.jpeg
+63,Cinque Terre,Italy,Picturesque coastal villages on the Italian Riviera.,https://images.pexels.com/photos/1797121/pexels-photo-1797121.jpeg
+64,Lake Bled,Slovenia,Glacial lake known for its island church.,https://images.pexels.com/photos/27051352/pexels-photo-27051352.jpeg
+65,Galway,Ireland,Harbor city on Irelands west coast.,https://images.pexels.com/photos/23644589/pexels-photo-23644589.jpeg
+66,Kilimanjaro,Tanzania,Highest mountain in Africa.,https://images.pexels.com/photos/13033075/pexels-photo-13033075.jpeg
+67,Keukenhof,Netherlands,Large flower garden known for its tulips.,https://images.pexels.com/photos/16644082/pexels-photo-16644082.jpeg
+68,Hwange National Park,Zimbabwe,Famous for its wildlife and large elephant herds.,https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg
+69,Cinque Terre,Italy,Picturesque coastal villages on the Italian Riviera.,https://images.pexels.com/photos/1797121/pexels-photo-1797121.jpeg
+70,Banff National Park,Canada,National park in the Canadian Rockies.,https://images.pexels.com/photos/533769/pexels-photo-533769.jpeg
+71,Bora Bora,French Polynesia,Small island known for its luxury resorts.,https://images.pexels.com/photos/1188473/pexels-photo-1188473.jpeg
+72,Moeraki Boulders,New Zealand,Large spherical boulders on Koekohe Beach.,https://images.pexels.com/photos/17771954/pexels-photo-17771954.jpeg
+73,Antelope Canyon,USA,Famous slot canyon in Arizona.,https://images.pexels.com/photos/33041/antelope-canyon-lower-canyon-arizona.jpg
+74,Moraine Lake,Canada,Glacially-fed lake in Banff National Park.,https://images.pexels.com/photos/2827843/pexels-photo-2827843.jpeg
+75,Wulingyuan,China,Scenic area known for its quartzite sandstone pillars.,https://images.pexels.com/photos/8138726/pexels-photo-8138726.jpeg
+76,Nusa Penida,Indonesia,Island known for its beaches and cliff formations.,https://images.pexels.com/photos/2583832/pexels-photo-2583832.jpeg
+77,Ngorongoro Crater,Tanzania,World's largest inactive volcanic caldera.,https://images.pexels.com/photos/2862070/pexels-photo-2862070.jpeg
+78,Queenstown,New Zealand,Resort town known for adventure sports.,https://images.pexels.com/photos/2226900/pexels-photo-2226900.jpeg
+79,Great Ocean Road,Australia,Scenic drive along the south-eastern coast of Australia.,https://images.pexels.com/photos/1170572/pexels-photo-1170572.jpeg
+80,Monument Valley,USA,Region of the Colorado Plateau characterized by a cluster of vast sandstone buttes.,https://images.pexels.com/photos/161820/monument-valley-west-western-161820.jpeg
+81,Napa Valley,USA,Region in California known for its vineyards.,https://images.pexels.com/photos/39511/purple-grapes-vineyard-napa-valley-napa-vineyard-39511.jpeg
+82,Monteverde Cloud Forest,Costa Rica,Famous for its biodiversity and cloud forest.,https://images.pexels.com/photos/27200252/pexels-photo-27200252.jpeg
+83,Rotorua,New Zealand,City on New Zealands North Island known for its geothermal activity.,https://images.pexels.com/photos/163992/pexels-photo-163992.jpeg
+84,Athabasca Glacier,Canada,Large glacier located in the Canadian Rockies.,https://images.pexels.com/photos/7263404/pexels-photo-7263404.jpeg
+85,Lake Louise,Canada,Glacial lake in Banff National Park.,https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg
+86,Bryggen,Norway,Historic harbour district in Bergen.,https://images.pexels.com/photos/18450266/pexels-photo-18450266.jpeg
+87,Mount Etna,Italy,Active volcano on the east coast of Sicily.,https://images.pexels.com/photos/5469523/pexels-photo-5469523.jpeg
+88,Reed Flute Cave,China,Natural limestone cave with multicolored lighting.,https://images.pexels.com/photos/23999399/pexels-photo-23999399.jpeg
+89,Bryce Canyon,USA,Famous for its unique rock formations called hoodoos.,https://images.pexels.com/photos/545960/pexels-photo-545960.jpeg
+90,Rapa Nui National Park,Chile,World Heritage site on Easter Island.,https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg

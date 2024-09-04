@@ -1,4 +1,3 @@
-import os
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pickle
@@ -55,8 +54,8 @@ def recommend():
     place_name = data['place_name']
     recommended_places, poster_url = recommend_place(place_name)
     response = {
-        'recommended_places': recommended_places[1:],  # Skip the first one as it's the queried book itself
-        'poster_url': poster_url[1:]  # Skip the first one as it's the queried book itself
+        'recommended_places': recommended_places[1:],  # Skip the first one as it's the queried place itself
+        'poster_url': poster_url[1:]  # Skip the first one as it's the queried place itself
     }
     return jsonify(response)
 
@@ -75,6 +74,10 @@ def get_place_details(place_name):
     }
     return jsonify(place_details)
 
+# Health Check Route
+@app.route('/status', methods=['GET'])
+def status():
+    return jsonify({'message': 'Service is operational'})
+
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5000))  # Get the port from environment variable
-    app.run(host='0.0.0.0', port=port, debug=True)
+    app.run(debug=True)

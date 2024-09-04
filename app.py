@@ -1,3 +1,4 @@
+import os
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pickle
@@ -80,4 +81,5 @@ def status():
     return jsonify({'message': 'Service is operational'})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))  # Get the port from environment variable
+    app.run(host='0.0.0.0', port=port, debug=True)
